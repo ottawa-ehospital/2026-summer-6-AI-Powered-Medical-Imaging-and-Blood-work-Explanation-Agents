@@ -1,1 +1,3 @@
 # 2026-summer-6-AI-Powered-Medical-Imaging-and-Blood-work-Explanation-Agents
+
+Sihan Wang - 8359108
